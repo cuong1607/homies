@@ -1,6 +1,21 @@
 export const data = [
   {
     "id": 0,
+    "custom_value": "Tufted_Royal Red",
+    "image_id": "vn-11134207-7ras8-m10rhipmulcv83"
+  },
+  {
+    "id": 0,
+    "custom_value": "Tufted_Rose Red",
+    "image_id": "vn-11134207-7ras8-m10rhm2lxkijb5"
+  },
+  {
+    "id": 0,
+    "custom_value": "Tufted_Lines Red",
+    "image_id": "vn-11134207-7ras8-m10rgxpjl1gff0"
+  },
+  {
+    "id": 0,
     "custom_value": "3 Bi Ngô",
     "image_id": "vn-11134207-7ras8-m262s8bkyy0kf7"
   },
