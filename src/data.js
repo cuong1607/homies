@@ -1816,332 +1816,332 @@ export const data = [
   },
   {
     "id": 0,
-    "custom_value": "Xanh NAVI",
+    "custom_value": "Đệm bệt_Xanh NAVI",
     "image_id": "c4cc701ab9dd92426579ad0f606f37a4"
   },
   {
     "id": 0,
-    "custom_value": "Xanh Than",
+    "custom_value": "Đệm bệt_Xanh Than",
     "image_id": "50fe0f261d2f5468c469e1eb6482300d"
   },
   {
     "id": 0,
-    "custom_value": "Ghi Xám",
+    "custom_value": "Đệm bệt_Ghi Xám",
     "image_id": "12faca5f69d4b647e782bf4b96ab5d00"
   },
   {
     "id": 0,
-    "custom_value": "Nâu Đậm",
+    "custom_value": "Đệm bệt_Nâu Đậm",
     "image_id": "dcedb1b2ab782ea788a93fdd6931be4c"
   },
   {
     "id": 0,
-    "custom_value": "Đỏ Bã Trầu",
+    "custom_value": "Đệm bệt_Đỏ Bã Trầu",
     "image_id": "ddf60fc60d56ef041560ba60a27edc75"
   },
   {
     "id": 0,
-    "custom_value": "Đen trơn",
+    "custom_value": "Đệm bệt_Đen trơn",
     "image_id": "12eb338f533117789294542c7335415e"
   },
   {
     "id": 0,
-    "custom_value": "Đỏ Tươi",
+    "custom_value": "Đệm bệt_Đỏ Tươi",
     "image_id": "702c0eba1f9af16b4ade56880775a436"
   },
   {
     "id": 0,
-    "custom_value": "Hồng Nhạt",
+    "custom_value": "Đệm bệt_Hồng Nhạt",
     "image_id": "f454ba280e3412ce98f390ea1b2d6346"
   },
   {
     "id": 0,
-    "custom_value": "Hồng Đậm",
+    "custom_value": "Đệm bệt_Hồng Đậm",
     "image_id": "3a36332f9c122e1cb0a8c80519e37c55"
   },
   {
     "id": 0,
-    "custom_value": "Xanh Nõn Chuối",
+    "custom_value": "Đệm bệt_Xanh Nõn Chuối",
     "image_id": "vn-11134207-7r98o-lzd3wbqwq1lt7b"
   },
   {
     "id": 0,
-    "custom_value": "Vàng Bò",
+    "custom_value": "Đệm bệt_Vàng Bò",
     "image_id": "f9756e0a9800260494d43d4122f22af4"
   },
   {
     "id": 0,
-    "custom_value": "Tím Nhạt",
+    "custom_value": "Đệm bệt_Tím Nhạt",
     "image_id": "cf931db27bbcc93e5037f2795b7592b0"
   },
   {
     "id": 0,
-    "custom_value": "Xanh Dương Đậm",
+    "custom_value": "Đệm bệt_Xanh Dương Đậm",
     "image_id": "d773c4f18752b9f3bf121248fe97c7f9"
   },
   {
     "id": 0,
-    "custom_value": "Trắng Tinh",
+    "custom_value": "Đệm bệt_Trắng Tinh",
     "image_id": "vn-11134207-7r98o-lzd3wo3ymr7xca"
   },
   {
     "id": 0,
-    "custom_value": "Mẫu Sale(Ngẫu Nhiên)",
+    "custom_value": "Đệm bệt_Mẫu Sale(Ngẫu Nhiên)",
     "image_id": "vn-11134207-7r98o-lsv4qz1dg5g930"
   },
   {
     "id": 0,
-    "custom_value": "Bệt mây điều hoà",
+    "custom_value": "Đệm bệt_Bệt mây điều hoà",
     "image_id": "vn-11134207-7r98o-lzd3xam5p4r14e"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Losto",
+    "custom_value": "Đệm bệt_Gấu Losto",
     "image_id": "vn-11134207-7r98o-lt2kxvj3832x57"
   },
   {
     "id": 0,
-    "custom_value": "Đỏ Bã Trầu.",
+    "custom_value": "Đệm bệt_Đỏ Bã Trầu.",
     "image_id": "vn-11134207-7r98o-lzd3z8p5521ta3"
   },
   {
     "id": 0,
-    "custom_value": "Cute Rabit",
+    "custom_value": "Đệm bệt_Cute Rabit",
     "image_id": "vn-11134207-7r98o-lt2kxvj36oihf1"
   },
   {
     "id": 0,
-    "custom_value": "Vàng Bò.",
+    "custom_value": "Đệm bệt_Vàng Bò.",
     "image_id": "vn-11134207-7r98o-lxnrfmpkio61b4"
   },
   {
     "id": 0,
-    "custom_value": "Xanh Than.",
+    "custom_value": "Đệm bệt_Xanh Than.",
     "image_id": "vn-11134207-7r98o-lzd41x3e2rf111"
   },
   {
     "id": 0,
-    "custom_value": "Ghi Xám.",
+    "custom_value": "Đệm bệt_Ghi Xám.",
     "image_id": "vn-11134207-7r98o-lzd429o7o49t29"
   },
   {
     "id": 0,
-    "custom_value": "Thỏ Hồng Cute",
+    "custom_value": "Đệm bệt_Thỏ Hồng Cute",
     "image_id": "vn-11134207-7r98o-lt2kxvj39hndfb"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Dâu Đỏ",
+    "custom_value": "Đệm bệt_Gấu Dâu Đỏ",
     "image_id": "vn-11134207-7r98o-lt2kxvj3aw7t1d"
   },
   {
     "id": 0,
-    "custom_value": "Tim Hồng Cười",
+    "custom_value": "Đệm bệt_Tim Hồng Cười",
     "image_id": "vn-11134207-7r98o-lt2kxvj3cas90a"
   },
   {
     "id": 0,
-    "custom_value": "Tim Xanh",
+    "custom_value": "Đệm bệt_Tim Xanh",
     "image_id": "vn-11134207-7r98o-lt2kxvj3f3x569"
   },
   {
     "id": 0,
-    "custom_value": "Đầu Gấu Nhỏ",
+    "custom_value": "Đệm bệt_Đầu Gấu Nhỏ",
     "image_id": "vn-11134207-7r98o-lzd42u41raz105"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Trái Tim",
+    "custom_value": "Đệm bệt_Gấu Trái Tim",
     "image_id": "vn-11134207-7r98o-lt2kxvj3hx21fc"
   },
   {
     "id": 0,
-    "custom_value": "Bồ Công Anh Trắng",
+    "custom_value": "Đệm bệt_Bồ Công Anh Trắng",
     "image_id": "vn-11134207-7r98o-lzeabkx6fkulb5"
   },
   {
     "id": 0,
-    "custom_value": "Hươu Cây Thông",
+    "custom_value": "Đệm bệt_Hươu Cây Thông",
     "image_id": "vn-11134207-7r98o-lv2ppg4boa2hfc"
   },
   {
     "id": 0,
-    "custom_value": "Mẫu Sale_ NgẫuNhiên",
+    "custom_value": "Đệm bệt_Mẫu Sale_ NgẫuNhiên",
     "image_id": "vn-11134207-7r98o-lzeabu5kx5ltde"
   },
   {
     "id": 0,
-    "custom_value": "Hình Học Trắng",
+    "custom_value": "Đệm bệt_Hình Học Trắng",
     "image_id": "vn-11134207-7r98o-lzeaczpe47kd50"
   },
   {
     "id": 0,
-    "custom_value": "Hình Học Vàng",
+    "custom_value": "Đệm bệt_Hình Học Vàng",
     "image_id": "vn-11134207-7r98o-lzead90kj4pt8d"
   },
   {
     "id": 0,
-    "custom_value": "Hình Học Đen",
+    "custom_value": "Đệm bệt_Hình Học Đen",
     "image_id": "vn-11134207-7r98o-lzeaddujf4ul38"
   },
   {
     "id": 0,
-    "custom_value": "Hồng Hạc",
+    "custom_value": "Đệm bệt_Hồng Hạc",
     "image_id": "vn-11134207-7r98o-lzeadkitnijl59"
   },
   {
     "id": 0,
-    "custom_value": "Mèo Xanh",
+    "custom_value": "Đệm bệt_Mèo Xanh",
     "image_id": "vn-11134207-7qukw-lj3mqkjzv0242b"
   },
   {
     "id": 0,
-    "custom_value": "Kẻ Caro Đen",
+    "custom_value": "Đệm bệt_Kẻ Caro Đen",
     "image_id": "vn-11134207-7qukw-lj3mqkjzwemk87"
   },
   {
     "id": 0,
-    "custom_value": "Thổ Cẩm Xanh",
+    "custom_value": "Đệm bệt_Thổ Cẩm Xanh",
     "image_id": "vn-11134207-7qukw-lj3mqkjzxt70f6"
   },
   {
     "id": 0,
-    "custom_value": "Thổ Cẩm Đỏ",
+    "custom_value": "Đệm bệt_Thổ Cẩm Đỏ",
     "image_id": "vn-11134207-7r98o-lodpz5yeacj7f1"
   },
   {
     "id": 0,
-    "custom_value": "Bồ Công Anh Đen",
+    "custom_value": "Đệm bệt_Bồ Công Anh Đen",
     "image_id": "8f34a02d342d56fe2113e1c1c3a2de92"
   },
   {
     "id": 0,
-    "custom_value": "Pizza Xanh",
+    "custom_value": "Đệm bệt_Pizza Xanh",
     "image_id": "vn-11134207-7r98o-lzeaewcrnnoh42"
   },
   {
     "id": 0,
-    "custom_value": "Kẻ Vàng",
+    "custom_value": "Đệm bệt_Kẻ Vàng",
     "image_id": "d93ff8d2dd9bf68d2424e274a5afa296"
   },
   {
     "id": 0,
-    "custom_value": "Cá Voi",
+    "custom_value": "Đệm bệt_Cá Voi",
     "image_id": "4688795661e58147a7292cabac028759"
   },
   {
     "id": 0,
-    "custom_value": "Tam Giác Hồng",
+    "custom_value": "Đệm bệt_Tam Giác Hồng",
     "image_id": "vn-11134207-7r98o-lm8bzygue2n3f0"
   },
   {
     "id": 0,
-    "custom_value": "Lá Khoai Xanh",
+    "custom_value": "Đệm bệt_Lá Khoai Xanh",
     "image_id": "e095021b026449a758705259713b29f0"
   },
   {
     "id": 0,
-    "custom_value": "Kẻ Mũi Tên",
+    "custom_value": "Đệm bệt_Kẻ Mũi Tên",
     "image_id": "68b01bdc63722c1bc5f66b6207d9b4db"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Trắng",
+    "custom_value": "Đệm bệt_Gấu Trắng",
     "image_id": "e76b3a4b75e780acb1123f373caab6e4"
   },
   {
     "id": 0,
-    "custom_value": "Xoáy Tròn",
+    "custom_value": "Đệm bệt_Xoáy Tròn",
     "image_id": "6be9ff3e5e248c5930fc6d59dcf0664b"
   },
   {
     "id": 0,
-    "custom_value": "Ghi Xám",
+    "custom_value": "Đệm bệt_Ghi Xám",
     "image_id": "vn-11134207-7r98o-lzeafv44sfgtf0"
   },
   {
     "id": 0,
-    "custom_value": "Xanh Than",
+    "custom_value": "Đệm bệt_Xanh Than",
     "image_id": "vn-11134207-7r98o-lzeafwr8dy8x90"
   },
   {
     "id": 0,
-    "custom_value": "Tam Giác Màu",
+    "custom_value": "Đệm bệt_Tam Giác Màu",
     "image_id": "9814e7d314c6c45d39bb48bb84871610"
   },
   {
     "id": 0,
-    "custom_value": "Kẻ Sọc Xám",
+    "custom_value": "Đệm bệt_Kẻ Sọc Xám",
     "image_id": "ac8a0d5bc4b14a43bb5fc688871a3874"
   },
   {
     "id": 0,
-    "custom_value": "Đỏ Bã Trầu",
+    "custom_value": "Đệm bệt_Đỏ Bã Trầu",
     "image_id": "vn-11134207-7r98o-lzeafyjvu5al3a"
   },
   {
     "id": 0,
-    "custom_value": "Nâu Đậm",
+    "custom_value": "Đệm bệt_Nâu Đậm",
     "image_id": "vn-11134207-7r98o-lzeag029jrfl94"
   },
   {
     "id": 0,
-    "custom_value": "Rừng Thông",
+    "custom_value": "Đệm bệt_Rừng Thông",
     "image_id": "d3d7f38ffd0450bf4b2f65c82ce87d18"
   },
   {
     "id": 0,
-    "custom_value": "Thỏ Hồng Cute.",
+    "custom_value": "Đệm bệt_Thỏ Hồng Cute.",
     "image_id": "vn-11134207-7ras8-m0xvvqcy6er364"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Losto",
+    "custom_value": "Đệm bệt_Gấu Losto",
     "image_id": "vn-11134207-7r98o-lzeaiszdv4pt57"
   },
   {
     "id": 0,
-    "custom_value": "Vàng Bò",
+    "custom_value": "Đệm bệt_Vàng Bò",
     "image_id": "vn-11134207-7r98o-lx7p2rbi92aj52"
   },
   {
     "id": 0,
-    "custom_value": "Caro Đỏ",
+    "custom_value": "Đệm bệt_Caro Đỏ",
     "image_id": "vn-11134207-7r98o-lzeaobg3h48184"
   },
   {
     "id": 0,
-    "custom_value": "Cute Rabit",
+    "custom_value": "Đệm bệt_Cute Rabit",
     "image_id": "vn-11134207-7r98o-lzeanov4heap00"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Trái Tim",
+    "custom_value": "Đệm bệt_Gấu Trái Tim",
     "image_id": "vn-11134207-7r98o-lzeanj1d0cp90d"
   },
   {
     "id": 0,
-    "custom_value": "Đầu Gấu Nhỏ",
+    "custom_value": "Đệm bệt_Đầu Gấu Nhỏ",
     "image_id": "vn-11134207-7r98o-lzeanflc1uw115"
   },
   {
     "id": 0,
-    "custom_value": "Tim Xanh",
+    "custom_value": "Đệm bệt_Tim Xanh",
     "image_id": "vn-11134207-7r98o-lzean7qljln1f9"
   },
   {
     "id": 0,
-    "custom_value": "Tim Hồng Cười",
+    "custom_value": "Đệm bệt_Tim Hồng Cười",
     "image_id": "vn-11134207-7r98o-lzeajlqbsm8x85"
   },
   {
     "id": 0,
-    "custom_value": "Gấu Dâu Đỏ",
+    "custom_value": "Đệm bệt_Gấu Dâu Đỏ",
     "image_id": "vn-11134207-7r98o-lzeajgffjyodfc"
   },
   {
     "id": 0,
-    "custom_value": "Thỏ Hồng Cute",
+    "custom_value": "Đệm bệt_Thỏ Hồng Cute",
     "image_id": "vn-11134207-7r98o-lzeaje8d75412b"
   },
   {
